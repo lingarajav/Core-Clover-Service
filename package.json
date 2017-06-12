@@ -1,0 +1,10 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-rest-client": "^3.1.0",
+    "sync-request": "^4.1.0"
+  }
+}
